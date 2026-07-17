@@ -1,7 +1,7 @@
 {
     "$schema": "https://www.schemastore.org/package.json",
     "name": "commitlint-config-nick2bad4u",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "private": false,
     "description": "Commitlint presets for Nick2bad4u's hybrid Gitmoji and Conventional Commit headers.",
     "keywords": [
